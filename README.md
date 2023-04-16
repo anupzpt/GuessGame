@@ -1,2 +1,2 @@
 # GuessGame
-GuessGame made using java.
+GuessGame made using java in ideal.
